@@ -9,6 +9,6 @@ It allows us to change github repositories into a cool looking websites where yo
 * *Documentation* 
 * And *projects* make them online.
 ### Main Advantages of using GitHub pages is that :
-1. There is no need for a database setup, server configuration, and HTML knowledge.
+1. There is no need for a Database Setup, Server Configuration, and HTML knowledge.
 2. If you do not know anything about programming, you just want your content to be online, then GitHub pages will allow you to focus on your content rather than distribute it over the internet.
 
