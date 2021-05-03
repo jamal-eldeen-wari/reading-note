@@ -5,8 +5,8 @@ Hello Everyone my name is Jamal Eldeen Wari, i graduated from Arab Open Universi
 ## Table of Content:
 | Assignments| Links             |
 |-------------|------------------|
-|read01       |[read1](read01.md)|
-|read02       |[read2](read02.md)|
+|read01       |[read01](read01.md)|
+|read02       |[read02](read02.md)|
 
 
 
