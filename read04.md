@@ -18,7 +18,7 @@ JavaScript is like any other programming language out there it uses operators to
 
 6. String Operator: It uses (+) operator to concatenate two strings or a string with a number.
 
-** Differences between Binary and Unary**:
+** Differences between Binary and Unary **:
 
 *Binary Operator* requires two operands one before the operator and the other after the operator. Whereas *Unary operator* one operand can be either before or after the operator.
 
