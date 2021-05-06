@@ -3,26 +3,26 @@ Loops offer a quick and easy way to do something repeatedly.
 Various loop mechanism offer different ways to determine the start and end point of loop all depends on situation sometimes there loop mechanism that can easily solve the situation easily than others.
 
 ### JavaScript Loops:
-1. ** For Loop**
+1. **For Loop**
 
-2. ** do....while Loop Statement**
+2. **do....while Loop Statement**
 
-3. ** While Statement **
+3. **While Statement**
 
-4. ** Labled Statement**
+4. **Labled Statement**
 
 5. **Break**
 
 6. **Continue**
 
-7. ** For..in Statement**
+7. **For..in Statement**
 
-8. ** For..of Statement**
+8. **For..of Statement**
 
 ## For Loop Statement:
-It repeats until a specific condition is false but as long as that condition returns true it will continue to loop. ** For Loop is Known as Limited Number of Repeats**
+It repeats until a specific condition is false but as long as that condition returns true it will continue to loop. **For Loop is Known as Limited Number of Repeats**
 ### **For Loop Syntax**:
-** for([Starting Point]; [Condition]; [Increment/ Decrement]){**
+**for([Starting Point]; [Condition]; [Increment/ Decrement]){**
 
   *Here Are Some Code*
 
@@ -51,7 +51,7 @@ It is known as Unlimited Number of Repeats. It executes the statement as long as
 2. After the first loop it checks the condition if false it exit the loop.
 
 ## Three Important Notes About Loops:
-1. In For Loop and While Loop if we have multiple statement inside of them we need to include ** curly braces ({....}) **.
+1. In For Loop and While Loop if we have multiple statement inside of them we need to include **curly braces ({....})**.
 
 2. In While Loop we need to be careful of the infinite loop.
 
