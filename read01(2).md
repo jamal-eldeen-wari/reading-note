@@ -147,6 +147,7 @@ Figure elements can be used for:
 
 ### <a>:
 Is used to link around block-level element that contains child element it allows us to make the entire block a link.
+<<<<<<< HEAD
 
 ## Javascript:
 Designing a script into tasks and steps:
@@ -169,5 +170,6 @@ each rule to its corresponding elements.**
 Syntax: This syntax is refered to as calling a method of an object. 
 
 **objectName.methodName(value);**
+
 
  
