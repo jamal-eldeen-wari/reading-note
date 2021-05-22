@@ -24,7 +24,7 @@ The code inside the function will be executed only when the function is called. 
 ## Return Statement:
 It is very important in js because it is like a stopping point when the return statement is reached the function it will stop executing.
 
-** important to note ** that when the function return a value it returns a value back to the caller.
+**important to note** that when the function return a value it returns a value back to the caller.
 
 ## Benefits of using functions: 
 1. Makes your code more readable.
