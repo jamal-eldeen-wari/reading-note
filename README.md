@@ -1,7 +1,9 @@
 # reading-note
 ## Intro:
 Hello Everyone my name is Jamal Eldeen Wari, i graduated from Arab Open University with a Computer Science degree, i am happy to be here in this course to help me become the best developer and to work with the best tech companies worldwide.
-## Code 102 Reading Notes:
+
+
+## **Code 102 Reading Notes:**
 ### Table of Content for **CODE 102**:
 | Assignment      | Links |
 | ----------- | ----------- |
@@ -13,7 +15,9 @@ Hello Everyone my name is Jamal Eldeen Wari, i graduated from Arab Open Universi
 | read05      | [read05](read05.md)    |
 | read06      | [read06](read06.md)    |
 
-## Code 201 Reading Notes
+
+
+## **Code 201 Reading Notes**
 ### Table of Content for **CODE 201**:
 
 | Assignment      | Links |
