@@ -63,15 +63,15 @@ Number of elements have the same class name it is like a family where the member
 Using either Class or ID attributes does not effect the presentation of the element but it changes their appereance if used in CSS.
 
 ### Block Elements: 
-They will always appear to start on a new line in browser window some of the Block Elements: (<h1>, <ul>, <ol>, <li> and <p>).
+They will always appear to start on a new line in browser window some of the Block Elements: (h1, ul, ol, li and p).
 ### inline Element:
-Elements that continue on the same line in browser window. Some of Inline element (<a> and <img>).
+Elements that continue on the same line in browser window. Some of Inline element (a and img).
 
 ### Grouping text and elements in a block: 
-The only element that is responsible for grouping is <div> element. It groups a set of elements together in one block-level box. <div> element is similar to block element because the contents of <div> elements will start in a new line.
+The only element that is responsible for grouping is div element. It groups a set of elements together in one block-level box. div element is similar to block element because the contents of div elements will start in a new line.
 
 ### Grouping text and elemnts inline: 
-The only elemnts that is responsible for grouping in line is the <span> element. There are two ways to use it:
+The only elemnts that is responsible for grouping in line is the span element. There are two ways to use it:
 
 1. Contain a section of text where there is no other suitable element to diffrerentiate it from its surronding text.
 
@@ -79,7 +79,7 @@ The only elemnts that is responsible for grouping in line is the <span> element.
 
 **Important to note** with the span element you will usually see that class or id being used with it.
 
-### <iframe> element:
+### iframe element:
 Little window that has been cut into your page it is mainly used to embed google maps in your website.
 
 **iframe has number of attributes**:
@@ -96,8 +96,8 @@ Little window that has been cut into your page it is mainly used to embed google
 
 6. Seamless: Supported in HTML 5 it can be applied to an iframe where scroll bars are not desired. Older browsers does not support it.
 
-### <Meta> Element: 
-It lives inside the <head> tag, contains information about that webpage its not visible to user but it fullfills number of purposes such as:
+### Meta Element: 
+It lives inside the head tag, contains information about that webpage its not visible to user but it fullfills number of purposes such as:
 
 1. Telling search engine about the page and who created it.
 
@@ -109,32 +109,32 @@ It lives inside the <head> tag, contains information about that webpage its not 
 
 2. Content attribute.
 
-### <header> and <footer> Elements:
+### header and footer Elements:
 Header appears top of the page where footer appears at the bottom of the page.
 
-### <nav>: 
+### nav: 
 It is used to contain the major navigational block on the site such as primary site navigation.
 
-### <artical>:
+### artical:
 It acts as a container for any section of a page that could standalone and potentially be syndicated. We can have multiple articals elements in a page and we can have nested articals.
 
-### <aside>:
+### aside:
 Has two purposes:
 
 1. when aside element is used inside of an artical elementit should contain information that is related to the artical.
 
 2. When aside element is being used outside of artical element it acts like a container for the content for the related page.
 
-### <section> :
+### section :
 It groups together the related content and each section would have it is own heading.
 in case of any long artical in our page we can split it up by using section.
 
-Section Element should not be used as wrapper for the entire page the best element for the wrapping is <div>.
+Section Element should not be used as wrapper for the entire page the best element for the wrapping is div.
 
-### <hgroup>:
-It is used to group a set of one or more <h1> through <h6> so that they are treated as one single heading.
+### hgroup:
+It is used to group a set of one or more h1 through h6 so that they are treated as one single heading.
 
-### <Figure>: 
+### Figure: 
 It can be used to contain any content that is referenced from the main flow of the artical.
 
 Figure elements can be used for: 
@@ -145,9 +145,9 @@ Figure elements can be used for:
 * Code Samples.
 * Text that supports main body of the artical.
 
-### <a>:
+### a:
 Is used to link around block-level element that contains child element it allows us to make the entire block a link.
-<<<<<<< HEAD
+
 
 ## Javascript:
 Designing a script into tasks and steps:
