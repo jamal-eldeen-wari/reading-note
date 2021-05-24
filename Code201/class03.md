@@ -77,6 +77,24 @@ Display property value:
 
 **Box Shadow Property**: It allows us to drop a shadow around a box, it works just like text shadow property.
 
+# Javascript Introductory:
+## Switch Statement: 
+it is like an if statement that is used to test a variable for equality aginst a list of value each value is called case where the variable is checked for each case.
+
+**VIP** Between every case there must be a break because if there is no break it will compare the itself aginst all of the cases and will alot of proccessing time. So it is ideal to include break statement.
+
+## Loops:
+It is used when we want to repeat code for unknown amount of time thats for the FOR LOOP or we can repeat a code for unknown amount of time in this case we use while loop. For any loop to work the condition must be true for all times once it is false it will stop the loop and execute other statements.
+
+**Types of Loops**:
+ 1. For Loop: Loops for specific amount of time.
+ 2. While Loop: Loops for unknown amount of time.
+ 3. DO While Loop: Similar to while loop the only difference it always run the statement inside the curly braces at least once even if the condition is false.
+
+ *Loop Counter*: It is very important because it determines the time the loop will stop that the loop will run for specific amount of time.
+
+ **VIP** If there is no loop increment or decrement the loop will run infinite amount of time which may cause a problem to your computer. 
+
 
 
 
