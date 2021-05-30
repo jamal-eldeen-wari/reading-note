@@ -81,4 +81,4 @@ It creates a model of the browser tab or window. The top most object is the **wi
 2. Document Object Model: Creates a model of the current webpage. The topmost object is **document** which represent the page as a whole.
 
 3. Global Javascript Objects: 
-They are group of individual objects that relate to different parts of javascript language. The names of global objects usually starts with capital letter.
+They are group of individual objects that relate to different parts of javascript language. The names of global objects usually starts with capital letter .
