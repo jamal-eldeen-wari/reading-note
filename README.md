@@ -38,5 +38,7 @@ Hello Everyone my name is Jamal Eldeen Wari, i graduated from Arab Open Universi
 | class11     | [class11](Code201/class11.md)
 | class12     | [class12](Code201/class12.md)
 | class13     | [class13](Code201/class13.md)
+| class14a    | [class14a](Code201/class14a.md)
+| class14b    | [class14b](Code201/class14b.md)
 
 
