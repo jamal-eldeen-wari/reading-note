@@ -89,3 +89,7 @@ There are three branching statements in java:
 1. Break Statement: it has two forms labeled and unlabeled. unlabeled is used in switch statement and we can use it to terminate from the for and while loops. 
 2. Continue Statement: it skips the current iteration of a for, while , or do-while loop. The unlabeled form skips to the end of the innermost loop's body and evaluates the boolean expression that controls the loop. Whereas the labled skips the current iteration of an outer loop marked with the given label.
 3. Return Statement: exits from the current method, and control flow returns to where the method was invoked. The return statement has two forms: one that returns a value, and one that doesn't. To return a value, simply put the value
+
+# what does it mean to compile the code?
+is to transfer source code that humans understand to machine code a language the computer understands (1,0), the transformation of the code is usually done by compilor. Compilor job is to make sure that the code is written in a correct way. It is  also important to note that just because the code compiles doesn't mean it works.
+
